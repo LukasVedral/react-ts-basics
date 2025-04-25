@@ -1,0 +1,6 @@
+.percentview{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    border: 2px solid black;
+}
